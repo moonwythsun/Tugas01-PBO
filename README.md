@@ -1,7 +1,7 @@
 # Tugas01-PBO
 
 Nama: Amalia Rizqy Putri Syapriansyah  
-NPM: 2410020174
+NPM: 2410020174f
 
 Deskripsi:
 Project Java menggunakan NetBeans berisi:
